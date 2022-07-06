@@ -4,10 +4,10 @@ body {
 
 .background-image {
 
-    background-image: url(images/donation12.png);
+    background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 50vh;
+    height: 90vh;
     margin: 0px;
 
 
@@ -16,7 +16,7 @@ body {
 }
 
 .need {
-    padding: 30px 40px 40px 400px;
+    padding: 250px 300px 40px 400px;
     text-align: center;
     width: 50%
 }
@@ -28,7 +28,7 @@ body {
 }
 
 #p-color {
-    color: darkmagenta;
+    color: rgb(32, 15, 15);
     background: linear-gradient(white, rgba(240, 23, 23, 0.212));
     font-weight: bold;
 }
@@ -38,20 +38,23 @@ body {
     background-image: linear-gradient(red, yellow);
     position: center;
     width: 13%;
+    height: 40px;
 }
 
 
 
 .center {
-    /* width: 50%; */
-    /* margin-left: 50px; */
+
     padding-left: 30%;
     padding-right: 30%;
     padding-top: 100px;
+    padding-bottom: 200px;
+
 }
 
 .center h1 {
     text-align: center;
+    font-weight: 1000;
 }
 
 .center h4 {
@@ -69,9 +72,6 @@ hr {
 
 }
 
-/* h4 {
-    text-align: center;
-} */
 
 #box1 {
 
@@ -125,10 +125,45 @@ hr {
 
 #resize-button {
 
-    margin-left: 50%;
+    margin-left: 43%;
     color: white;
     background-image: linear-gradient(red, yellow);
     position: center;
     width: 13%;
+    height: 40px;
     text-align: center;
+}
+
+
+
+
+
+.footer {
+    background-color: black;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+}
+
+.footer h1 {
+    font-family: 'Great Vibes', cursive;
+    color: red;
+    margin: 0;
+
+
+
+
+}
+
+.footer h5 {
+    color: antiquewhite;
+    margin: 0;
+
+
+
 }

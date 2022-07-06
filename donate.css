@@ -29,7 +29,7 @@ body {
 
 #p-color {
     color: darkmagenta;
-    background: linear-gradient(white, rgba(240, 23, 23, 0.329));
+    background: linear-gradient(white, rgba(240, 23, 23, 0.212));
     font-weight: bold;
 }
 
@@ -38,4 +38,97 @@ body {
     background-image: linear-gradient(red, yellow);
     position: center;
     width: 13%;
+}
+
+
+
+.center {
+    /* width: 50%; */
+    /* margin-left: 50px; */
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 100px;
+}
+
+.center h1 {
+    text-align: center;
+}
+
+.center h4 {
+    text-align: center;
+}
+
+hr {
+    width: 80%;
+}
+
+.set-amount {
+    display: flex;
+
+
+
+}
+
+/* h4 {
+    text-align: center;
+} */
+
+#box1 {
+
+    width: 15%;
+    height: 20%;
+    margin: 50px 5px 50px 20px;
+    background-color: rgba(255, 228, 196, 0.274);
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+#box2 {
+
+    width: 15%;
+    height: 20%;
+    margin: 50px 5px 50px 50px;
+
+    background-color: rgba(255, 196, 196, 0.281);
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 5px;
+}
+
+#box3 {
+    width: 15%;
+    height: 20%;
+    margin: 50px 5px 50px 20px;
+    background-color: rgba(255, 228, 196, 0.274);
+    text-align: center;
+    border-radius: 5px;
+}
+
+#box4 {
+    width: 15%;
+    height: 20%;
+    margin: 50px 5px 50px 20px;
+    background-color: rgba(255, 228, 196, 0.274);
+    text-align: center;
+    border-radius: 5px;
+}
+
+#box5 {
+    width: 15%;
+    height: 20%;
+    margin: 50px 5px 50px 20px;
+    background-color: rgba(255, 228, 196, 0.274);
+    text-align: center;
+    border-radius: 5px;
+}
+
+#resize-button {
+
+    margin-left: 50%;
+    color: white;
+    background-image: linear-gradient(red, yellow);
+    position: center;
+    width: 13%;
+    text-align: center;
 }

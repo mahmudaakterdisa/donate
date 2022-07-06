@@ -143,6 +143,79 @@ hr {
     text-align: center;
 }
 
+#h1-center {
+    text-align: center;
+    margin: 0;
+}
+
+#basic-needs {
+    margin: 0;
+    padding-left: 32%;
+
+}
+
+
+.donation-plan {
+    display: flex;
+    padding-bottom: 200px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+
+
+
+}
+
+.donation-plan h1 {
+    margin: 0;
+
+}
+
+.donation-plan p {
+    margin: 0;
+}
+
+
+
+
+#food {
+
+    width: 30%;
+    height: 80%;
+    margin: 50px 5px 50px 20px;
+    background-color: rgba(255, 228, 196, 0.274);
+    text-align: center;
+    border-radius: 5px;
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 130px;
+}
+
+#shelter {
+    width: 30%;
+    height: 80%;
+    margin: 50px 5px 50px 20px;
+    background-color: rgba(236, 170, 241, 0.089);
+    text-align: center;
+    border-radius: 5px;
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 90px;
+}
+
+#education {
+    width: 30%;
+    height: 80%;
+    margin: 50px 5px 50px 20px;
+    background-color: rgba(255, 88, 11, 0.274);
+    text-align: center;
+    border-radius: 5px;
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 50px;
+}
+
+
 .update {
     margin-bottom: 200px;
     margin-left: 30%;

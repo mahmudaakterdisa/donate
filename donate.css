@@ -16,7 +16,7 @@ body {
 }
 
 .need {
-    padding: 250px 300px 40px 400px;
+    padding: 250px 300px 0px 400px;
     text-align: center;
     width: 50%
 }
@@ -25,12 +25,14 @@ body {
     background: linear-gradient(white, rgba(128, 128, 128, 0.233));
     font-weight: 1000;
 
+
 }
 
 #p-color {
     color: rgb(32, 15, 15);
     background: linear-gradient(white, rgba(240, 23, 23, 0.212));
     font-weight: bold;
+
 }
 
 #btn {
@@ -47,14 +49,21 @@ body {
 
     padding-left: 30%;
     padding-right: 30%;
-    padding-top: 100px;
+    padding-top: 200px;
     padding-bottom: 200px;
 
 }
 
-.center h1 {
+#today {
+
     text-align: center;
     font-weight: 1000;
+    margin: 0;
+
+}
+
+.center p {
+    margin: 0;
 }
 
 .center h4 {
@@ -134,9 +143,45 @@ hr {
     text-align: center;
 }
 
+.update {
+    margin-bottom: 200px;
+    margin-left: 30%;
+
+}
+
+.update p {
+
+    margin: 0;
+    padding-left: 5%;
+    padding-bottom: 20px;
+}
+
+#my {
+    text-align: center;
+    margin: 0;
+    font-weight: 1000px;
+}
+
+#form {
+    background-color: blanchedalmond;
+    width: 50%;
+    height: 100px;
+    padding-left: 80px;
+    padding-top: 50px;
+
+}
+
+#email {
+    width: 50%;
 
 
+}
 
+#submit {
+    background-image: linear-gradient(red, yellow);
+    width: 10%;
+
+}
 
 .footer {
     background-color: black;
@@ -154,16 +199,9 @@ hr {
     font-family: 'Great Vibes', cursive;
     color: red;
     margin: 0;
-
-
-
-
 }
 
 .footer h5 {
     color: antiquewhite;
     margin: 0;
-
-
-
 }

@@ -205,8 +205,31 @@ hr {
     padding-bottom: 50px;
 }
 
+.meet {
+    background-image: url(images/bonus2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+#element-center {
+    padding-top: 100px;
+}
+
+#element-center h1 {
+    font-weight: 900;
+    color: black;
+}
+
+#element-center {
+    font-weight: 700;
+    color: rgb(22, 8, 219);
+}
 
 .update {
+
     margin-bottom: 200px;
     margin-left: 35%;
 }

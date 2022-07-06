@@ -9,11 +9,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     height: 90vh;
-
-
-
-
-
 }
 
 .need {
@@ -44,7 +39,9 @@ body {
     height: 40px;
 }
 
-
+span {
+    padding-left: 10%;
+}
 
 .center {
 
@@ -65,6 +62,7 @@ body {
 
 .center p {
     margin: 0;
+
 }
 
 .center h4 {
@@ -77,9 +75,6 @@ hr {
 
 .set-amount {
     display: flex;
-
-
-
 }
 
 
@@ -151,7 +146,7 @@ hr {
 
 #basic-needs {
     margin: 0;
-    padding-left: 32%;
+    margin-left: 35%;
 
 }
 
@@ -161,9 +156,6 @@ hr {
     padding-bottom: 200px;
     padding-left: 10%;
     padding-right: 10%;
-
-
-
 
 }
 
@@ -175,9 +167,6 @@ hr {
 .donation-plan p {
     margin: 0;
 }
-
-
-
 
 #food {
 
@@ -219,9 +208,7 @@ hr {
 
 .update {
     margin-bottom: 200px;
-    margin-left: 30%;
-
-
+    margin-left: 35%;
 }
 
 .update p {
@@ -248,8 +235,6 @@ hr {
 
 #email {
     width: 50%;
-
-
 }
 
 #submit {
@@ -258,20 +243,11 @@ hr {
 
 }
 
-.footer-image {
+.footer {
     background-color: black;
     text-align: center;
-
-
-
-}
-
-.footer {
-
     padding-top: 50px;
     padding-bottom: 50px;
-
-
 }
 
 .footer h1 {
